@@ -4,29 +4,18 @@
   "warnings": [
   ],
   "version": "4.23.1",
-  "hash": "17269",
-  "time": 4948,
-  "builtAt": 1564399366136,
+  "hash": "be762",
+  "time": 2350,
+  "builtAt": 1564400681028,
   "publicPath": "",
   "outputPath": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/build",
   "assetsByChunkName": {
     "main": [
-      "css/main.bb6a0.0.css",
+      "main.bb6a0.0.css",
       "js/main.2461a.0.js"
     ]
   },
   "assets": [
-    {
-      "name": "css/main.bb6a0.0.css",
-      "size": 19548,
-      "chunks": [
-        0
-      ],
-      "chunkNames": [
-        "main"
-      ],
-      "emitted": true
-    },
     {
       "name": "images/background_search_desktop.e4fce.jpg",
       "size": 170654,
@@ -47,7 +36,7 @@
     },
     {
       "name": "index.html",
-      "size": 411,
+      "size": 407,
       "chunks": [
       ],
       "chunkNames": [
@@ -57,6 +46,17 @@
     {
       "name": "js/main.2461a.0.js",
       "size": 159516,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "emitted": true
+    },
+    {
+      "name": "main.bb6a0.0.css",
+      "size": 19548,
       "chunks": [
         0
       ],
@@ -82,7 +82,7 @@
         0
       ],
       "assets": [
-        "css/main.bb6a0.0.css",
+        "main.bb6a0.0.css",
         "js/main.2461a.0.js"
       ],
       "children": {
@@ -97,7 +97,7 @@
         0
       ],
       "assets": [
-        "css/main.bb6a0.0.css",
+        "main.bb6a0.0.css",
         "js/main.2461a.0.js"
       ],
       "children": {
@@ -117,7 +117,7 @@
         "main"
       ],
       "files": [
-        "css/main.bb6a0.0.css",
+        "main.bb6a0.0.css",
         "js/main.2461a.0.js"
       ],
       "hash": "2461a",
@@ -194,7 +194,7 @@
               "moduleName": "./source/index.js + 7 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "react",
-              "loc": "2:0-36"
+              "loc": "2:0-25"
             },
             {
               "moduleId": 96,
@@ -203,7 +203,7 @@
               "moduleName": "./source/index.js + 7 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "react",
-              "loc": "2:0-25"
+              "loc": "2:0-36"
             },
             {
               "moduleId": 96,
@@ -2210,9 +2210,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "issuerId": 21,
-          "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.object.set-prototype-of.js",
+          "issuerId": 25,
+          "issuerName": "./node_modules/core-js/modules/es6.object.set-prototype-of.js",
           "issuerPath": [
             {
               "id": null,
@@ -2225,9 +2225,9 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 21,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-              "name": "./node_modules/core-js/modules/es6.symbol.js"
+              "id": 25,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.object.set-prototype-of.js",
+              "name": "./node_modules/core-js/modules/es6.object.set-prototype-of.js"
             }
           ],
           "failed": false,
@@ -2591,9 +2591,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_is-array-iter.js",
-          "issuerId": 70,
-          "issuerName": "./node_modules/core-js/modules/_is-array-iter.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/web.dom.iterable.js",
+          "issuerId": 86,
+          "issuerName": "./node_modules/core-js/modules/web.dom.iterable.js",
           "issuerPath": [
             {
               "id": null,
@@ -2606,19 +2606,14 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 45,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
-              "name": "./node_modules/core-js/modules/es6.promise.js"
+              "id": null,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/cache-loader/dist/cjs.js!/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/babel-loader/lib/index.js??ref--5-1!/Users/dmytronazarenko/Desktop/Lectrum/ravenous/source/components/SearchBar/index.js",
+              "name": "./source/components/SearchBar/index.js"
             },
             {
-              "id": 68,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_for-of.js",
-              "name": "./node_modules/core-js/modules/_for-of.js"
-            },
-            {
-              "id": 70,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_is-array-iter.js",
-              "name": "./node_modules/core-js/modules/_is-array-iter.js"
+              "id": 86,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/web.dom.iterable.js",
+              "name": "./node_modules/core-js/modules/web.dom.iterable.js"
             }
           ],
           "failed": false,
@@ -3423,9 +3418,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_to-iobject.js",
-          "issuerId": 12,
-          "issuerName": "./node_modules/core-js/modules/_to-iobject.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_fix-re-wks.js",
+          "issuerId": 83,
+          "issuerName": "./node_modules/core-js/modules/_fix-re-wks.js",
           "issuerPath": [
             {
               "id": null,
@@ -3438,14 +3433,14 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 21,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-              "name": "./node_modules/core-js/modules/es6.symbol.js"
+              "id": 82,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.regexp.search.js",
+              "name": "./node_modules/core-js/modules/es6.regexp.search.js"
             },
             {
-              "id": 12,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_to-iobject.js",
-              "name": "./node_modules/core-js/modules/_to-iobject.js"
+              "id": 83,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_fix-re-wks.js",
+              "name": "./node_modules/core-js/modules/_fix-re-wks.js"
             }
           ],
           "failed": false,
@@ -3943,9 +3938,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-dp.js",
-          "issuerId": 7,
-          "issuerName": "./node_modules/core-js/modules/_object-dp.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopd.js",
+          "issuerId": 44,
+          "issuerName": "./node_modules/core-js/modules/_object-gopd.js",
           "issuerPath": [
             {
               "id": null,
@@ -3963,9 +3958,9 @@
               "name": "./node_modules/core-js/modules/es6.symbol.js"
             },
             {
-              "id": 7,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-dp.js",
-              "name": "./node_modules/core-js/modules/_object-dp.js"
+              "id": 44,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopd.js",
+              "name": "./node_modules/core-js/modules/_object-gopd.js"
             }
           ],
           "failed": false,
@@ -4015,9 +4010,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopn.js",
-          "issuerId": 43,
-          "issuerName": "./node_modules/core-js/modules/_object-gopn.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-keys.js",
+          "issuerId": 17,
+          "issuerName": "./node_modules/core-js/modules/_object-keys.js",
           "issuerPath": [
             {
               "id": null,
@@ -4035,9 +4030,9 @@
               "name": "./node_modules/core-js/modules/es6.symbol.js"
             },
             {
-              "id": 43,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopn.js",
-              "name": "./node_modules/core-js/modules/_object-gopn.js"
+              "id": 17,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-keys.js",
+              "name": "./node_modules/core-js/modules/_object-keys.js"
             }
           ],
           "failed": false,
@@ -5641,9 +5636,9 @@
               "name": "./node_modules/core-js/modules/es6.symbol.js"
             },
             {
-              "id": 43,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopn.js",
-              "name": "./node_modules/core-js/modules/_object-gopn.js"
+              "id": 17,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-keys.js",
+              "name": "./node_modules/core-js/modules/_object-keys.js"
             },
             {
               "id": 37,
@@ -5709,9 +5704,9 @@
               "name": "./node_modules/core-js/modules/es6.symbol.js"
             },
             {
-              "id": 43,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopn.js",
-              "name": "./node_modules/core-js/modules/_object-gopn.js"
+              "id": 17,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-keys.js",
+              "name": "./node_modules/core-js/modules/_object-keys.js"
             },
             {
               "id": 37,
@@ -8849,7 +8844,7 @@
           "moduleName": "./source/index.js + 7 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "react",
-          "loc": "2:0-36"
+          "loc": "2:0-25"
         },
         {
           "moduleId": 96,
@@ -8858,7 +8853,7 @@
           "moduleName": "./source/index.js + 7 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "react",
-          "loc": "2:0-25"
+          "loc": "2:0-36"
         },
         {
           "moduleId": 96,
@@ -10874,9 +10869,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-      "issuerId": 21,
-      "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.object.set-prototype-of.js",
+      "issuerId": 25,
+      "issuerName": "./node_modules/core-js/modules/es6.object.set-prototype-of.js",
       "issuerPath": [
         {
           "id": null,
@@ -10889,9 +10884,9 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 21,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "name": "./node_modules/core-js/modules/es6.symbol.js"
+          "id": 25,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.object.set-prototype-of.js",
+          "name": "./node_modules/core-js/modules/es6.object.set-prototype-of.js"
         }
       ],
       "failed": false,
@@ -11255,9 +11250,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_is-array-iter.js",
-      "issuerId": 70,
-      "issuerName": "./node_modules/core-js/modules/_is-array-iter.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/web.dom.iterable.js",
+      "issuerId": 86,
+      "issuerName": "./node_modules/core-js/modules/web.dom.iterable.js",
       "issuerPath": [
         {
           "id": null,
@@ -11270,19 +11265,14 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 45,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
-          "name": "./node_modules/core-js/modules/es6.promise.js"
+          "id": null,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/cache-loader/dist/cjs.js!/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/babel-loader/lib/index.js??ref--5-1!/Users/dmytronazarenko/Desktop/Lectrum/ravenous/source/components/SearchBar/index.js",
+          "name": "./source/components/SearchBar/index.js"
         },
         {
-          "id": 68,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_for-of.js",
-          "name": "./node_modules/core-js/modules/_for-of.js"
-        },
-        {
-          "id": 70,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_is-array-iter.js",
-          "name": "./node_modules/core-js/modules/_is-array-iter.js"
+          "id": 86,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/web.dom.iterable.js",
+          "name": "./node_modules/core-js/modules/web.dom.iterable.js"
         }
       ],
       "failed": false,
@@ -12087,9 +12077,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_to-iobject.js",
-      "issuerId": 12,
-      "issuerName": "./node_modules/core-js/modules/_to-iobject.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_fix-re-wks.js",
+      "issuerId": 83,
+      "issuerName": "./node_modules/core-js/modules/_fix-re-wks.js",
       "issuerPath": [
         {
           "id": null,
@@ -12102,14 +12092,14 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 21,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "name": "./node_modules/core-js/modules/es6.symbol.js"
+          "id": 82,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.regexp.search.js",
+          "name": "./node_modules/core-js/modules/es6.regexp.search.js"
         },
         {
-          "id": 12,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_to-iobject.js",
-          "name": "./node_modules/core-js/modules/_to-iobject.js"
+          "id": 83,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_fix-re-wks.js",
+          "name": "./node_modules/core-js/modules/_fix-re-wks.js"
         }
       ],
       "failed": false,
@@ -12607,9 +12597,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-dp.js",
-      "issuerId": 7,
-      "issuerName": "./node_modules/core-js/modules/_object-dp.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopd.js",
+      "issuerId": 44,
+      "issuerName": "./node_modules/core-js/modules/_object-gopd.js",
       "issuerPath": [
         {
           "id": null,
@@ -12627,9 +12617,9 @@
           "name": "./node_modules/core-js/modules/es6.symbol.js"
         },
         {
-          "id": 7,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-dp.js",
-          "name": "./node_modules/core-js/modules/_object-dp.js"
+          "id": 44,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopd.js",
+          "name": "./node_modules/core-js/modules/_object-gopd.js"
         }
       ],
       "failed": false,
@@ -12679,9 +12669,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopn.js",
-      "issuerId": 43,
-      "issuerName": "./node_modules/core-js/modules/_object-gopn.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-keys.js",
+      "issuerId": 17,
+      "issuerName": "./node_modules/core-js/modules/_object-keys.js",
       "issuerPath": [
         {
           "id": null,
@@ -12699,9 +12689,9 @@
           "name": "./node_modules/core-js/modules/es6.symbol.js"
         },
         {
-          "id": 43,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopn.js",
-          "name": "./node_modules/core-js/modules/_object-gopn.js"
+          "id": 17,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-keys.js",
+          "name": "./node_modules/core-js/modules/_object-keys.js"
         }
       ],
       "failed": false,
@@ -14305,9 +14295,9 @@
           "name": "./node_modules/core-js/modules/es6.symbol.js"
         },
         {
-          "id": 43,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopn.js",
-          "name": "./node_modules/core-js/modules/_object-gopn.js"
+          "id": 17,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-keys.js",
+          "name": "./node_modules/core-js/modules/_object-keys.js"
         },
         {
           "id": 37,
@@ -14373,9 +14363,9 @@
           "name": "./node_modules/core-js/modules/es6.symbol.js"
         },
         {
-          "id": 43,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-gopn.js",
-          "name": "./node_modules/core-js/modules/_object-gopn.js"
+          "id": 17,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-keys.js",
+          "name": "./node_modules/core-js/modules/_object-keys.js"
         },
         {
           "id": 37,
@@ -17459,7 +17449,7 @@
           "name": "index.html",
           "size": 545304,
           "chunks": [
-            0
+            1
           ],
           "chunkNames": [
           ]
@@ -17469,7 +17459,7 @@
       "entrypoints": {
         "undefined": {
           "chunks": [
-            0
+            1
           ],
           "assets": [
             "index.html"
@@ -17483,7 +17473,7 @@
       "namedChunkGroups": {
         "undefined": {
           "chunks": [
-            0
+            1
           ],
           "assets": [
             "index.html"
@@ -17496,7 +17486,7 @@
       },
       "chunks": [
         {
-          "id": 0,
+          "id": 1,
           "rendered": true,
           "initial": true,
           "entry": true,
@@ -17506,7 +17496,7 @@
           "files": [
             "index.html"
           ],
-          "hash": "3931b",
+          "hash": "8af9e",
           "siblings": [
           ],
           "parents": [
@@ -17528,7 +17518,7 @@
               "optional": false,
               "prefetched": false,
               "chunks": [
-                0
+                1
               ],
               "issuer": null,
               "issuerId": null,
@@ -17569,7 +17559,7 @@
               "optional": false,
               "prefetched": false,
               "chunks": [
-                0
+                1
               ],
               "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/html-webpack-plugin/lib/loader.js!/Users/dmytronazarenko/Desktop/Lectrum/ravenous/static/template.html",
               "issuerId": 0,
@@ -17617,7 +17607,7 @@
               "optional": false,
               "prefetched": false,
               "chunks": [
-                0
+                1
               ],
               "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/lodash/lodash.js",
               "issuerId": 1,
@@ -17670,7 +17660,7 @@
               "optional": false,
               "prefetched": false,
               "chunks": [
-                0
+                1
               ],
               "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/lodash/lodash.js",
               "issuerId": 1,
@@ -17739,7 +17729,7 @@
           "optional": false,
           "prefetched": false,
           "chunks": [
-            0
+            1
           ],
           "issuer": null,
           "issuerId": null,
@@ -17780,7 +17770,7 @@
           "optional": false,
           "prefetched": false,
           "chunks": [
-            0
+            1
           ],
           "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/html-webpack-plugin/lib/loader.js!/Users/dmytronazarenko/Desktop/Lectrum/ravenous/static/template.html",
           "issuerId": 0,
@@ -17828,7 +17818,7 @@
           "optional": false,
           "prefetched": false,
           "chunks": [
-            0
+            1
           ],
           "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/lodash/lodash.js",
           "issuerId": 1,
@@ -17881,7 +17871,7 @@
           "optional": false,
           "prefetched": false,
           "chunks": [
-            0
+            1
           ],
           "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/lodash/lodash.js",
           "issuerId": 1,
