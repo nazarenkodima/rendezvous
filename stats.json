@@ -5,8 +5,8 @@
   ],
   "version": "4.23.1",
   "hash": "17269",
-  "time": 2160,
-  "builtAt": 1564401851139,
+  "time": 2150,
+  "builtAt": 1564402042517,
   "publicPath": "",
   "outputPath": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/build",
   "assetsByChunkName": {
@@ -534,9 +534,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "issuerId": 21,
-          "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "issuerId": 45,
+          "issuerName": "./node_modules/core-js/modules/es6.promise.js",
           "issuerPath": [
             {
               "id": null,
@@ -549,9 +549,9 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 21,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-              "name": "./node_modules/core-js/modules/es6.symbol.js"
+              "id": 45,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+              "name": "./node_modules/core-js/modules/es6.promise.js"
             }
           ],
           "failed": false,
@@ -718,9 +718,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "issuerId": 21,
-          "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "issuerId": 45,
+          "issuerName": "./node_modules/core-js/modules/es6.promise.js",
           "issuerPath": [
             {
               "id": null,
@@ -733,9 +733,9 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 21,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-              "name": "./node_modules/core-js/modules/es6.symbol.js"
+              "id": 45,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+              "name": "./node_modules/core-js/modules/es6.promise.js"
             }
           ],
           "failed": false,
@@ -1023,9 +1023,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "issuerId": 21,
-          "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "issuerId": 45,
+          "issuerName": "./node_modules/core-js/modules/es6.promise.js",
           "issuerPath": [
             {
               "id": null,
@@ -1038,9 +1038,9 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 21,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-              "name": "./node_modules/core-js/modules/es6.symbol.js"
+              "id": 45,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+              "name": "./node_modules/core-js/modules/es6.promise.js"
             }
           ],
           "failed": false,
@@ -2022,9 +2022,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "issuerId": 21,
-          "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "issuerId": 45,
+          "issuerName": "./node_modules/core-js/modules/es6.promise.js",
           "issuerPath": [
             {
               "id": null,
@@ -2037,9 +2037,9 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 21,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-              "name": "./node_modules/core-js/modules/es6.symbol.js"
+              "id": 45,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+              "name": "./node_modules/core-js/modules/es6.promise.js"
             }
           ],
           "failed": false,
@@ -2492,9 +2492,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_is-array.js",
-          "issuerId": 64,
-          "issuerName": "./node_modules/core-js/modules/_is-array.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_classof.js",
+          "issuerId": 46,
+          "issuerName": "./node_modules/core-js/modules/_classof.js",
           "issuerPath": [
             {
               "id": null,
@@ -2507,14 +2507,14 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 21,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-              "name": "./node_modules/core-js/modules/es6.symbol.js"
+              "id": 45,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+              "name": "./node_modules/core-js/modules/es6.promise.js"
             },
             {
-              "id": 64,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_is-array.js",
-              "name": "./node_modules/core-js/modules/_is-array.js"
+              "id": 46,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_classof.js",
+              "name": "./node_modules/core-js/modules/_classof.js"
             }
           ],
           "failed": false,
@@ -3020,9 +3020,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "issuerId": 21,
-          "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "issuerId": 45,
+          "issuerName": "./node_modules/core-js/modules/es6.promise.js",
           "issuerPath": [
             {
               "id": null,
@@ -3035,9 +3035,9 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 21,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-              "name": "./node_modules/core-js/modules/es6.symbol.js"
+              "id": 45,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+              "name": "./node_modules/core-js/modules/es6.promise.js"
             }
           ],
           "failed": false,
@@ -3261,9 +3261,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-create.js",
-          "issuerId": 41,
-          "issuerName": "./node_modules/core-js/modules/_object-create.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_task.js",
+          "issuerId": 47,
+          "issuerName": "./node_modules/core-js/modules/_task.js",
           "issuerPath": [
             {
               "id": null,
@@ -3276,14 +3276,14 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 21,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-              "name": "./node_modules/core-js/modules/es6.symbol.js"
+              "id": 45,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+              "name": "./node_modules/core-js/modules/es6.promise.js"
             },
             {
-              "id": 41,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-create.js",
-              "name": "./node_modules/core-js/modules/_object-create.js"
+              "id": 47,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_task.js",
+              "name": "./node_modules/core-js/modules/_task.js"
             }
           ],
           "failed": false,
@@ -4365,9 +4365,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-create.js",
-          "issuerId": 41,
-          "issuerName": "./node_modules/core-js/modules/_object-create.js",
+          "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_task.js",
+          "issuerId": 47,
+          "issuerName": "./node_modules/core-js/modules/_task.js",
           "issuerPath": [
             {
               "id": null,
@@ -4380,14 +4380,14 @@
               "name": "./source/pages/App/index.js"
             },
             {
-              "id": 21,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-              "name": "./node_modules/core-js/modules/es6.symbol.js"
+              "id": 45,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+              "name": "./node_modules/core-js/modules/es6.promise.js"
             },
             {
-              "id": 41,
-              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-create.js",
-              "name": "./node_modules/core-js/modules/_object-create.js"
+              "id": 47,
+              "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_task.js",
+              "name": "./node_modules/core-js/modules/_task.js"
             }
           ],
           "failed": false,
@@ -9193,9 +9193,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-      "issuerId": 21,
-      "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+      "issuerId": 45,
+      "issuerName": "./node_modules/core-js/modules/es6.promise.js",
       "issuerPath": [
         {
           "id": null,
@@ -9208,9 +9208,9 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 21,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "name": "./node_modules/core-js/modules/es6.symbol.js"
+          "id": 45,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "name": "./node_modules/core-js/modules/es6.promise.js"
         }
       ],
       "failed": false,
@@ -9377,9 +9377,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-      "issuerId": 21,
-      "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+      "issuerId": 45,
+      "issuerName": "./node_modules/core-js/modules/es6.promise.js",
       "issuerPath": [
         {
           "id": null,
@@ -9392,9 +9392,9 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 21,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "name": "./node_modules/core-js/modules/es6.symbol.js"
+          "id": 45,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "name": "./node_modules/core-js/modules/es6.promise.js"
         }
       ],
       "failed": false,
@@ -9682,9 +9682,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-      "issuerId": 21,
-      "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+      "issuerId": 45,
+      "issuerName": "./node_modules/core-js/modules/es6.promise.js",
       "issuerPath": [
         {
           "id": null,
@@ -9697,9 +9697,9 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 21,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "name": "./node_modules/core-js/modules/es6.symbol.js"
+          "id": 45,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "name": "./node_modules/core-js/modules/es6.promise.js"
         }
       ],
       "failed": false,
@@ -10681,9 +10681,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-      "issuerId": 21,
-      "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+      "issuerId": 45,
+      "issuerName": "./node_modules/core-js/modules/es6.promise.js",
       "issuerPath": [
         {
           "id": null,
@@ -10696,9 +10696,9 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 21,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "name": "./node_modules/core-js/modules/es6.symbol.js"
+          "id": 45,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "name": "./node_modules/core-js/modules/es6.promise.js"
         }
       ],
       "failed": false,
@@ -11151,9 +11151,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_is-array.js",
-      "issuerId": 64,
-      "issuerName": "./node_modules/core-js/modules/_is-array.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_classof.js",
+      "issuerId": 46,
+      "issuerName": "./node_modules/core-js/modules/_classof.js",
       "issuerPath": [
         {
           "id": null,
@@ -11166,14 +11166,14 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 21,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "name": "./node_modules/core-js/modules/es6.symbol.js"
+          "id": 45,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "name": "./node_modules/core-js/modules/es6.promise.js"
         },
         {
-          "id": 64,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_is-array.js",
-          "name": "./node_modules/core-js/modules/_is-array.js"
+          "id": 46,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_classof.js",
+          "name": "./node_modules/core-js/modules/_classof.js"
         }
       ],
       "failed": false,
@@ -11679,9 +11679,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-      "issuerId": 21,
-      "issuerName": "./node_modules/core-js/modules/es6.symbol.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+      "issuerId": 45,
+      "issuerName": "./node_modules/core-js/modules/es6.promise.js",
       "issuerPath": [
         {
           "id": null,
@@ -11694,9 +11694,9 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 21,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "name": "./node_modules/core-js/modules/es6.symbol.js"
+          "id": 45,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "name": "./node_modules/core-js/modules/es6.promise.js"
         }
       ],
       "failed": false,
@@ -11920,9 +11920,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-create.js",
-      "issuerId": 41,
-      "issuerName": "./node_modules/core-js/modules/_object-create.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_task.js",
+      "issuerId": 47,
+      "issuerName": "./node_modules/core-js/modules/_task.js",
       "issuerPath": [
         {
           "id": null,
@@ -11935,14 +11935,14 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 21,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "name": "./node_modules/core-js/modules/es6.symbol.js"
+          "id": 45,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "name": "./node_modules/core-js/modules/es6.promise.js"
         },
         {
-          "id": 41,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-create.js",
-          "name": "./node_modules/core-js/modules/_object-create.js"
+          "id": 47,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_task.js",
+          "name": "./node_modules/core-js/modules/_task.js"
         }
       ],
       "failed": false,
@@ -13024,9 +13024,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-create.js",
-      "issuerId": 41,
-      "issuerName": "./node_modules/core-js/modules/_object-create.js",
+      "issuer": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_task.js",
+      "issuerId": 47,
+      "issuerName": "./node_modules/core-js/modules/_task.js",
       "issuerPath": [
         {
           "id": null,
@@ -13039,14 +13039,14 @@
           "name": "./source/pages/App/index.js"
         },
         {
-          "id": 21,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.symbol.js",
-          "name": "./node_modules/core-js/modules/es6.symbol.js"
+          "id": 45,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/es6.promise.js",
+          "name": "./node_modules/core-js/modules/es6.promise.js"
         },
         {
-          "id": 41,
-          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_object-create.js",
-          "name": "./node_modules/core-js/modules/_object-create.js"
+          "id": 47,
+          "identifier": "/Users/dmytronazarenko/Desktop/Lectrum/ravenous/node_modules/core-js/modules/_task.js",
+          "name": "./node_modules/core-js/modules/_task.js"
         }
       ],
       "failed": false,
