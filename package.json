@@ -59,7 +59,7 @@
     "postcss-reporter": "6.0.0",
     "prettier-eslint-cli": "4.7.1",
     "prop-types": "15.6.2",
-    "react-dev-utils": "6.0.5",
+    "react-dev-utils": "11.0.4",
     "react-hot-loader": "4.3.11",
     "rimraf": "2.6.2",
     "serve": "10.0.2",
